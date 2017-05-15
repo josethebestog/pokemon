@@ -1,0 +1,16 @@
+body{
+  background-image: url("https://lh3.googleusercontent.com/Pz7U86vwJxi9H7SgZg0wYH_49zyO6TxWLqkKGEzS_ok7RMjTlALBvurhZCpN72A73w=h900");
+    padding: 50px;
+    margin: 25px;
+  }
+
+
+  svg{
+  background: blue;
+  display: block;
+  margin: auto;
+}
+h1{
+  color: blue;
+  font-size: 650%;
+}
